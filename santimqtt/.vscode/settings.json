@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:\\Users\\selt2\\esp\\v5.4.1\\esp-idf",
+  "idf.pythonInstallPath": "C:\\Users\\selt2\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s2-kaluga-1.cfg"
+  ],
+  "idf.portWin": "COM4",
+  "idf.toolsPathWin": "C:\\Users\\selt2\\.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s2"
+  },
+  "idf.flashType": "UART",
+  "files.associations": {
+    "semphr.h": "c",
+    "mqtt_client.h": "c"
+  }
+}
