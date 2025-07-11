@@ -4,5 +4,5 @@ config MQTT_MODULE_BROKER_URI
     default "mqtt://broker.hivemq.com:1883"
 config MQTT_MODULE_TOPIC_BASE
     string "Tópico raíz"
-    default "/santiagoelters/"
+    default "/santiagoelters/uart"
 endmenu

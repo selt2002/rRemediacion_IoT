@@ -1,10 +1,10 @@
-/* components/wifi_manager/wifi_manager.c */
+
+#include "sdkconfig.h"
 #include "wifi_manager.h"
 #include "esp_wifi.h"
 #include "esp_event.h"
 #include "esp_log.h"
 #include "nvs_flash.h"
-#include "sdkconfig.h"
 #include "esp_netif.h"
 
 static const char *TAG = "wifi_mgr";

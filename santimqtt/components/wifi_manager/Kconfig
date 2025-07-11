@@ -1,0 +1,11 @@
+menu "Kaluga Wi-Fi"
+
+config KM_SSID
+    string "Wi-Fi SSID"
+    default "caliope"
+
+config KM_PASSWORD
+    string "Wi-Fi Password"
+    default "sinlugar"
+
+endmenu
